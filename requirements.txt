@@ -1,8 +1,8 @@
-streamlit==1.25.0
-pandas==2.0.3
-numpy==1.25.2
-plotly==5.17.0
-fpdf==1.7.2
-python-dotenv==1.0.0
-genai==0.1.0
-setuptools==68.0.0
+streamlit
+pandas
+numpy
+plotly
+fpdf
+python-dotenv
+genai
+setuptools
