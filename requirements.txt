@@ -1,9 +1,4 @@
-tiktoken
 streamlit
-pandas
-numpy
-plotly
+google-generativeai
 fpdf
 python-dotenv
-genai
-setuptools
