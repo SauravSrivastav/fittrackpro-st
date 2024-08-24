@@ -84,10 +84,10 @@ FitTrack Pro is built for anyone looking to take control of their fitness journe
 ## Screenshots
 
 ![Search Results](https://github.com/SauravSrivastav/fittrackpro-st/blob/main/data/1.png)
-*Search results displayed in a tabular format.*
+* Your Personalized Meal Plan and Your Personalized Workout Plan.*
 
 ![Download Options](https://github.com/SauravSrivastav/fittrackpro-st/blob/main/data/2.png)
-*Download options for CSV and Excel files.*
+*Download Option for our Fitness Plan.*
 
 ## Contributing
 
