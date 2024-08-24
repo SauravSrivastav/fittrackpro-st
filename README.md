@@ -1,4 +1,5 @@
-# FitTrack Pro 🏋️‍♂️ - Your Advanced Personal Fitness Companion
+---
+# FitTrack Pro 🏋️‍♂️
 
 **FitTrack Pro** is an innovative and comprehensive fitness application designed to help you achieve your personal health and fitness goals. Whether you're aiming to lose weight, gain muscle, or maintain your current physique, FitTrack Pro offers personalized meal plans, workout routines, and progress tracking features tailored just for you.
 
@@ -14,7 +15,6 @@ FitTrack Pro is built for anyone looking to take control of their fitness journe
 - **Progress Tracking**: Set and track your fitness goals with easy-to-understand metrics and visualizations.
 - **Light and Dark Modes**: Switch between light and dark themes to suit your environment and preferences.
 
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -29,8 +29,8 @@ FitTrack Pro is built for anyone looking to take control of their fitness journe
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/SauravSrivastav/FitTrack-Pro.git
-    cd FitTrack-Pro
+    git clone https://github.com/SauravSrivastav/fittrackpro-st.git
+    cd fittrackpro-st
     ```
 
 2. **Create and Activate a Virtual Environment:**
@@ -77,6 +77,14 @@ FitTrack Pro is built for anyone looking to take control of their fitness journe
 2. Generate your personalized meal and workout plans.
 3. Download your plans as a PDF or track your progress directly within the app.
 
+## Screenshots
+
+![Search Results](https://github.com/SauravSrivastav/fittrackpro-st/blob/main/data/1.png)
+*Search results displayed in a tabular format.*
+
+![Download Options](https://github.com/SauravSrivastav/fittrackpro-st/blob/main/data/2.png)
+*Download options for CSV and Excel files.*
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve FitTrack Pro, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
@@ -84,3 +92,9 @@ Contributions are welcome! If you'd like to improve FitTrack Pro, please fork th
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, please feel free to reach out to me at [sauravsrivastav2205@gmail.com](mailto:sauravsrivastav2205@gmail.com).
+
+---
