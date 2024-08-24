@@ -1,4 +1,3 @@
----
 # FitTrack Pro 🏋️‍♂️
 
 **FitTrack Pro** is an innovative and comprehensive fitness application designed to help you achieve your personal health and fitness goals. Whether you're aiming to lose weight, gain muscle, or maintain your current physique, FitTrack Pro offers personalized meal plans, workout routines, and progress tracking features tailored just for you.
@@ -57,7 +56,12 @@ FitTrack Pro is built for anyone looking to take control of their fitness journe
 
 4. **Set up the Google Generative AI API key:**
 
-    Replace the placeholder API key in the code with your actual API key from Google Generative AI.
+    - Obtain your API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+    - Create a `.env` file in the root directory of the project and add your API key:
+
+      ```env
+      GOOGLE_API_KEY=your_api_key_here
+      ```
 
 5. **Run the application locally:**
 
@@ -96,5 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, please feel free to reach out to me at [sauravsrivastav2205@gmail.com](mailto:sauravsrivastav2205@gmail.com).
-
----
